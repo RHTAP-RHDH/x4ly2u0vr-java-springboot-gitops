@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: x4ly2u0vr-java-springboot-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/x4ly2u0vr-java-springboot
